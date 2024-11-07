@@ -14,7 +14,7 @@ To identify and quantify the most significant factors impacting graduate earning
 - **Model Evaluation**: Key metrics such as R-squared, Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) were calculated and analyzed.
 
 ## Data Source
-The dataset used in this project is the **2013-14 cohort dataset** from the [U.S. Department of Education College Scorecard](https://collegescorecard.ed.gov/data/). Due to the large size of the dataset, it is not included in this repository.
+The dataset used in this project is the **2014-15 cohort dataset** from the [U.S. Department of Education College Scorecard](https://collegescorecard.ed.gov/data/). Due to the large size of the dataset, it is not included in this repository.
 
 ## Key Findings
 - Factors like median family income, faculty salary, and Pell Grant percentage showed significant relationships with graduate earnings.

@@ -1,0 +1,4 @@
+Random Forest Model Metrics:
+- Mean Squared Error: 28803835.27
+- Root Mean Squared Error: 5366.92
+- R-squared: 0.7697

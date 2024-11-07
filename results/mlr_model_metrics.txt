@@ -1,4 +1,0 @@
-Multiple Linear Regression Model Metrics on Test Set:
-- Mean Squared Error: 0.02
-- Root Mean Squared Error: 0.16
-- R-squared: 0.6862

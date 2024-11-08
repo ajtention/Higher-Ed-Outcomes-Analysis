@@ -1,24 +1,25 @@
-# Higher Education Outcomes Analysis
+# Higher Education Outcomes Analysis  📊🎓
 
 ## Overview
-This project analyzes the factors influencing student outcomes at U.S. colleges and universities, focusing on how various institutional characteristics affect graduates' median earnings 10 years after enrollment. The analysis includes detailed data exploration, modeling using Multiple Linear Regression (MLR) and Random Forest, and key insights drawn from model evaluations.
+This project dives into an in-depth analysis of U.S. colleges and universities to uncover the institutional characteristics that shape graduates' median earnings 10 years after enrollment. By blending exploratory data analysis (EDA), Multiple Linear Regression (MLR), and Random Forest modeling, this study offers actionable insights into the factors that drive the return on investment in higher education.
 
 ## Objective
-To identify and quantify the most significant factors impacting graduate earnings and provide valuable insights into the return on investment in higher education.
+To pinpoint and quantify the top factors influencing graduate earnings, providing data-driven insights that benefit students, educators, and policymakers in decision-making.
 
 ## Project Highlights
-- **Exploratory Data Analysis (EDA)**: Visualizations and statistical summaries to understand data distribution and relationships.
-- **Modeling Techniques**:
-  - **Multiple Linear Regression (MLR)**: Used for interpretability and baseline performance.
-  - **Random Forest**: Applied for comparison and to capture non-linear relationships.
-- **Model Evaluation**: Key metrics such as R-squared, Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) were calculated and analyzed.
+- **🔍 Exploratory Data Analysis (EDA)**: Visualizations and statistical summaries to reveal data patterns and relationships.
+- **⚙️ Modeling Approaches**:
+  - **Multiple Linear Regression (MLR)**: Serves as an interpretable model and baseline.
+  - **Random Forest**: Captures complex, non-linear interactions for comparison.
+- **📈 Model Evaluation**:
+  - Key metrics such as R-squared, Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) were calculated and analyzed.
 
 ## Data Source
-The dataset used in this project is the **2014-15 cohort dataset** from the [U.S. Department of Education College Scorecard](https://collegescorecard.ed.gov/data/). Due to the large size of the dataset, it is not included in this repository.
+The analysis uses the **2014-15 cohort dataset** from the U.S. Department of Education College Scorecard. Due to the dataset's large size, it is not included in this repository but can be accessed [here](https://collegescorecard.ed.gov/data/).
 
 ## Key Findings
 - Factors like median family income, faculty salary, and Pell Grant percentage showed significant relationships with graduate earnings.
-- The models demonstrated strong predictive power, with R-squared values of approximately 0.69 on the test set for MLR and higher performance from the Random Forest model.
+- The MLR model showed an R-squared value of ~0.69 on the test set, while the Random Forest model yielded even stronger performance.
 
 ## Folder Structure
 - /Higher-Ed-Outcomes-Analysis
@@ -28,8 +29,8 @@ The dataset used in this project is the **2014-15 cohort dataset** from the [U.S
   - README.md              - Project overview and insights
 
 ## How to Explore This Project
-- **Check the Notebooks**: The `notebooks` folder includes detailed step-by-step analyses, complete with comments explaining the code and visualizations.
-- **Review the Results**: The `results` folder contains key model evaluation metrics and CSVs with actual vs. predicted values.
+- **Explore the Notebooks**: Visit the `notebooks/` directory for a full breakdown of the analysis, with well-documented code and visuals.
+- **Review Results**: Check out `results/` for CSVs that compare actual vs. predicted values and metrics summaries.
 
 ## Skills Demonstrated
 - **Data Analysis and Visualization**
